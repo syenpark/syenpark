@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Siemens mobility as a data scientist
+- 🌱 I’m currently learning to be a ModelOps
+- 👯 I’m looking to collaborate on deployment for machine learning projects
+- 🤔 I’m looking for help with managing machine learning development lifecycle
+- 💬 Ask me about machine learning deployment
+- 📫 How to reach me: email me
+- 😄 Pronouns: si-enn
+- ⚡ Fun fact: My legal first name was named after the professor Pi in Boston University
