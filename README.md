@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Siemens mobility as a data scientist
+- 🔭 I’m currently working on Siemens mobility as a data scientist and a ML engineer
 - 🌱 I’m currently learning to be a ModelOps
 - 👯 I’m looking to collaborate on deployment for machine learning projects
 - 🤔 I’m looking for help with managing machine learning development lifecycle
