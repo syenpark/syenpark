@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about machine learning deployment
 - 📫 How to reach me: email me
 - 😄 Pronouns: si-enn
-- ⚡ Fun fact: I got married with a lovely foreinger
+- ⚡ Fun fact: I'm taken by a lovely homebody
