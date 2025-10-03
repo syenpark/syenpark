@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **🔭 I’m currently working on** containerizing real-time video analytics (DeepStream + YOLO across 60+ RTSP streams) and adaptive time-series forecasting (energy/traffic).
+- **🔭 I’m currently working on** containerizing real-time video analytics (DeepStream + YOLO + DeepSort across 60+ RTSP streams) and adaptive time-series forecasting (energy/traffic).
 - **🌱 I’m currently learning** agentic AI (LangGraph, MCP) and knowledge graphs for log analysis and automated RCA.
-- **👯 I’m looking to collaborate on** production-ready AI pipelines — CV, time-series forecasting, streaming infra.
+- **👯 I’m looking to collaborate on** production-ready AI pipelines - CV, time-series forecasting, streaming infra.
 - **🤔 I’m looking for help with** scaling multi-GPU inference, low-latency pub/sub (Redis, ZeroMQ, Kafka).
 - **💬 Ask me about** bridging messy Jupyter prototypes into clean, containerized AI systems.
 - **📫 How to reach me**: email me
 - **😄 Pronouns**: si-enn
-- **⚡ Fun fact**: I’m a new mom — balancing GPU workloads and baby bottle schedules at the same time 🍼 + 💻.
+- **⚡ Fun fact**: I’m a new mom - balancing GPU workloads and baby bottle schedules at the same time 🍼 + 💻.
