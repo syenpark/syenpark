@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - **💬 Ask me about** bridging messy Jupyter prototypes into clean, containerized AI systems.
 - **📫 How to reach me**: email me
 - **😄 Pronouns**: si-enn
-- **⚡ Fun fact**: I’m a new mom - balancing GPU workloads and baby bottle schedules at the same time 🍼 + 💻.
+- **⚡ Fun fact**: Wannabe Super Nanny - balancing GPU workloads and baby bottle schedules at the same time 🍼 + 💻.
