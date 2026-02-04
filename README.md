@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **🔭 I’m currently working on** containerizing real-time video analytics (DeepStream + YOLO + DeepSort across 60+ RTSP streams) and adaptive time-series forecasting (energy/traffic).
-- **🌱 I’m currently learning** agentic AI (LangGraph, MCP) and knowledge graphs for log analysis and automated RCA.
-- **👯 I’m looking to collaborate on** production-ready AI pipelines - CV, time-series forecasting, streaming infra.
-- **🤔 I’m looking for help with** scaling multi-GPU inference, low-latency pub/sub (Redis, ZeroMQ, Kafka).
-- **💬 Ask me about** bridging messy Jupyter prototypes into clean, containerized AI systems.
-- **📫 How to reach me**: email me
-- **😄 Pronouns**: si-enn
+- **🔭 I’m currently working on** production-grade AI/ML systems for real-time analytics, and designing scalable architectures that don’t fall over at scale.
+- **🌱 I’m currently learning** low-latency engineering fundamentals (C++, data structures, perf profiling), and how to bridge applied ML with deterministic systems thinking (KG + LLM, GraphRAG).
+- **👯 I’m looking to collaborate on** real-world ML systems (not toy notebooks): video analytics, streaming pipelines, inference optimization, or knowledge-graph–driven AI for RCA.
+- **🤔 I’m looking for help with** scaling multi-GPU inference, ultra-low-latency system design, and C++ performance patterns.
+- **💬 Ask me about** DeepStream vs Python tradeoffs, GPU/CPU bottlenecks, scaling multi-camera analytics, or why “just use an LLM” usually breaks in production.
+- **📫 How to reach me**: via email
+- **😄 Pronouns**: she/her
 - **⚡ Fun fact**: Wannabe Super Nanny - balancing GPU workloads and baby bottle schedules at the same time 🍼 + 💻.
