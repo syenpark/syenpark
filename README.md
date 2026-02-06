@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - **👯 I’m looking to collaborate on** real-world ML systems (not toy notebooks): video analytics, streaming pipelines, inference optimization, or knowledge-graph–driven AI for RCA.
 - **🤔 I’m looking for help with** scaling multi-GPU inference, ultra-low-latency system design, and C++ performance patterns.
 - **💬 Ask me about** DeepStream vs Python tradeoffs, GPU/CPU bottlenecks, scaling multi-camera analytics, or why “just use an LLM” usually breaks in production.
-- **📫 How to reach me**: via email
-- **😄 Pronouns**: she/her
-- **⚡ Fun fact**: Wannabe Super Nanny - balancing GPU workloads and baby bottle schedules at the same time 🍼 + 💻.
+- **📫 How to reach me**: via email.
+- **😄 Pronouns**: she/her.
+- **⚡ Fun fact**: Wannabe Super Nanny – balancing real-time analytics, system engineering, and baby bottle schedules 🍼 + 💻.
