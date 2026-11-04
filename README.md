@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - **🌱 I’m currently learning** low-latency engineering fundamentals (C++, data structures, performance profiling), with a deep dive into [C++ Concurrency in Action](https://github.com/anthonywilliams/ccia_code_samples).
 - **👯 I’m looking to collaborate on** real-world ML systems (not toy notebooks): video analytics, streaming pipelines, inference optimization, or dimensionality reduction techniques for LLMs to enable high-accuracy analysis of massive log datasets.
 - **🤔 I’m Currently exploring** scaling multi-GPU training and inference, low-latency system design, and C++ performance patterns.
-- **🎨 Side Hustle / Obsession** Building a hard real-time C++ inference & combinatorics pipeline for automated leather nesting (anomaly detection on highly non-rigid biological textures + 2D packing optimization under strict latency constraints; inspired by Patrick Süskind's *Perfume*).
+- **🎨 Side Hustle / Obsession** Exploring a hard real-time C++ inference & combinatorics pipeline for automated leather nesting (anomaly detection on highly non-rigid biological textures + 2D packing optimization under strict latency constraints; inspired by Patrick Süskind's *Perfume*).
 - **💬 Ask me about** DeepStream vs Python tradeoffs, GPU/CPU bottlenecks in inference, scaling multi-camera analytics, or why “just use an LLM” usually fails in production.
 - **📫 How to reach me**: via email.
 - **😄 Pronouns**: she/her.
